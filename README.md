@@ -1,4 +1,4 @@
-## INSTALL TOOL ON TERMU
+# INSTALL TOOL ON TERMUX
 
 pkg update 
 
