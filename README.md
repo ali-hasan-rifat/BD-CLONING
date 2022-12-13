@@ -16,7 +16,7 @@ pip install rich
 
 pip install mechanize
 
-rm -rf b-update-
+rm -rf BD-CLONING
 
 git clone https://github.com/R1F4T-2-0/BD-CLONING
 
