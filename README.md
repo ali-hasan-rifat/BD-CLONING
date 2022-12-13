@@ -1,13 +1,30 @@
 ## INSTALL TOOL ON TERMU
 
-apt update && apt upgrade
-rm -rf mao_pre
-apt install python3
-pip install mechanize lolcat
-pip install requests bs4
-pip install futures
-apt install git
+pkg update 
 
-### RUN SCRIPT
+pkg install upgrade -y
+
+pkg install python
+
+pkg install git -y
+
+pip install requests
+
+pip install bs4
+
+pip install rich
+
+pip install mechanize
+
+rm -rf b-update-
+
+git clone https://github.com/R1F4T-2-0/BD-CLONING
+
+cd BD-CLONING
+
+ls
+
+python BD-CLONING.py
+
 
 
